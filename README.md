@@ -1,4 +1,7 @@
 ### SYNCHRONOUS-UP-COUNTER
+# NAME:VINOTH K R
+#REG.NO:212224050060
+
 
 **AIM:**
 
@@ -27,20 +30,27 @@ The next flip-flop need only “recognize” that the first flip-flop’s Q outp
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
 **Procedure**
+![Screenshot 2025-05-06 061919](https://github.com/user-attachments/assets/e7e1e1ca-9fc4-4725-8d51-26b55237281c)
 
-/* write all the steps invloved */
 
 **PROGRAM**
+![image](https://github.com/user-attachments/assets/07493e1c-be58-4848-beba-981fa73a4537)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC UP COUNTER**
+![image](https://github.com/user-attachments/assets/3dd647f3-1280-4f12-90cc-37dec739d66c)
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![image](https://github.com/user-attachments/assets/45729301-0822-43d1-b40e-6b86aa4d43e8)
+
+
 
 **TRUTH TABLE**
 
+![image](https://github.com/user-attachments/assets/85025b4e-8207-4bba-b87b-cdae394a8943)
+
 **RESULTS**
+Hence a 4 bit synchronous up counter is implemented correctly
